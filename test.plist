@@ -11,7 +11,7 @@
 			<key>$class</key>
 			<dict>
 				<key>CF$UID</key>
-				<integer>135</integer>
+				<integer>138</integer>
 			</dict>
 			<key>assets</key>
 			<dict>
@@ -362,12 +362,12 @@
 			<key>$class</key>
 			<dict>
 				<key>CF$UID</key>
-				<integer>134</integer>
+				<integer>137</integer>
 			</dict>
 			<key>do_objectID</key>
 			<dict>
 				<key>CF$UID</key>
-				<integer>133</integer>
+				<integer>136</integer>
 			</dict>
 			<key>exportOptions</key>
 			<dict>
@@ -389,7 +389,7 @@
 			<key>horizontalRulerData</key>
 			<dict>
 				<key>CF$UID</key>
-				<integer>125</integer>
+				<integer>128</integer>
 			</dict>
 			<key>isFlippedHorizontal</key>
 			<false/>
@@ -428,7 +428,7 @@
 			<key>scrollOrigin</key>
 			<dict>
 				<key>CF$UID</key>
-				<integer>129</integer>
+				<integer>132</integer>
 			</dict>
 			<key>sharedObjectID</key>
 			<dict>
@@ -450,7 +450,7 @@
 			<key>verticalRulerData</key>
 			<dict>
 				<key>CF$UID</key>
-				<integer>130</integer>
+				<integer>133</integer>
 			</dict>
 			<key>zoomValue</key>
 			<real>1</real>
@@ -614,21 +614,21 @@
 			<key>NS.object.1</key>
 			<dict>
 				<key>CF$UID</key>
-				<integer>75</integer>
+				<integer>78</integer>
 			</dict>
 		</dict>
 		<dict>
 			<key>$class</key>
 			<dict>
 				<key>CF$UID</key>
-				<integer>74</integer>
+				<integer>77</integer>
 			</dict>
 			<key>automaticallyDrawOnUnderlyingPath</key>
 			<false/>
 			<key>do_objectID</key>
 			<dict>
 				<key>CF$UID</key>
-				<integer>73</integer>
+				<integer>76</integer>
 			</dict>
 			<key>dontSynchroniseWithSymbol</key>
 			<false/>
@@ -943,7 +943,7 @@
 			<key>$class</key>
 			<dict>
 				<key>CF$UID</key>
-				<integer>72</integer>
+				<integer>75</integer>
 			</dict>
 			<key>NSAttributes</key>
 			<dict>
@@ -991,17 +991,17 @@
 			<key>NS.key.0</key>
 			<dict>
 				<key>CF$UID</key>
-				<integer>56</integer>
+				<integer>72</integer>
 			</dict>
 			<key>NS.key.1</key>
 			<dict>
 				<key>CF$UID</key>
-				<integer>59</integer>
+				<integer>73</integer>
 			</dict>
 			<key>NS.key.2</key>
 			<dict>
 				<key>CF$UID</key>
-				<integer>62</integer>
+				<integer>74</integer>
 			</dict>
 			<key>NS.object.0</key>
 			<dict>
@@ -1019,6 +1019,9 @@
 				<integer>63</integer>
 			</dict>
 		</dict>
+		<string>NSColor</string>
+		<string>NSParagraphStyle</string>
+		<string>NSFont</string>
 		<dict>
 			<key>$classes</key>
 			<array>
@@ -1050,24 +1053,24 @@
 			<key>$class</key>
 			<dict>
 				<key>CF$UID</key>
-				<integer>124</integer>
+				<integer>127</integer>
 			</dict>
 			<key>clippingMaskMode</key>
 			<integer>0</integer>
 			<key>do_objectID</key>
 			<dict>
 				<key>CF$UID</key>
-				<integer>123</integer>
+				<integer>126</integer>
 			</dict>
 			<key>exportOptions</key>
 			<dict>
 				<key>CF$UID</key>
-				<integer>76</integer>
+				<integer>79</integer>
 			</dict>
 			<key>frame</key>
 			<dict>
 				<key>CF$UID</key>
-				<integer>81</integer>
+				<integer>84</integer>
 			</dict>
 			<key>hasClickThrough</key>
 			<true/>
@@ -1086,12 +1089,12 @@
 			<key>layers</key>
 			<dict>
 				<key>CF$UID</key>
-				<integer>98</integer>
+				<integer>101</integer>
 			</dict>
 			<key>name</key>
 			<dict>
 				<key>CF$UID</key>
-				<integer>82</integer>
+				<integer>85</integer>
 			</dict>
 			<key>nameIsFixed</key>
 			<false/>
@@ -1112,7 +1115,7 @@
 			<key>style</key>
 			<dict>
 				<key>CF$UID</key>
-				<integer>83</integer>
+				<integer>86</integer>
 			</dict>
 			<key>userInfo</key>
 			<dict>
@@ -1131,7 +1134,7 @@
 			<key>includedLayerIds</key>
 			<dict>
 				<key>CF$UID</key>
-				<integer>77</integer>
+				<integer>80</integer>
 			</dict>
 			<key>layerOptions</key>
 			<integer>0</integer>
@@ -1140,7 +1143,7 @@
 			<key>sizes</key>
 			<dict>
 				<key>CF$UID</key>
-				<integer>79</integer>
+				<integer>82</integer>
 			</dict>
 		</dict>
 		<dict>
@@ -1152,7 +1155,7 @@
 			<key>array_do</key>
 			<dict>
 				<key>CF$UID</key>
-				<integer>78</integer>
+				<integer>81</integer>
 			</dict>
 		</dict>
 		<dict>
@@ -1171,7 +1174,7 @@
 			<key>array_do</key>
 			<dict>
 				<key>CF$UID</key>
-				<integer>80</integer>
+				<integer>83</integer>
 			</dict>
 		</dict>
 		<dict>
@@ -1208,14 +1211,14 @@
 			<key>borders</key>
 			<dict>
 				<key>CF$UID</key>
-				<integer>84</integer>
+				<integer>87</integer>
 			</dict>
 			<key>endDecorationType</key>
 			<integer>0</integer>
 			<key>fills</key>
 			<dict>
 				<key>CF$UID</key>
-				<integer>91</integer>
+				<integer>94</integer>
 			</dict>
 			<key>miterLimit</key>
 			<integer>10</integer>
@@ -1236,12 +1239,12 @@
 			<key>$class</key>
 			<dict>
 				<key>CF$UID</key>
-				<integer>90</integer>
+				<integer>93</integer>
 			</dict>
 			<key>array_do</key>
 			<dict>
 				<key>CF$UID</key>
-				<integer>85</integer>
+				<integer>88</integer>
 			</dict>
 		</dict>
 		<dict>
@@ -1253,19 +1256,19 @@
 			<key>NS.object.0</key>
 			<dict>
 				<key>CF$UID</key>
-				<integer>86</integer>
+				<integer>89</integer>
 			</dict>
 		</dict>
 		<dict>
 			<key>$class</key>
 			<dict>
 				<key>CF$UID</key>
-				<integer>89</integer>
+				<integer>92</integer>
 			</dict>
 			<key>color</key>
 			<dict>
 				<key>CF$UID</key>
-				<integer>87</integer>
+				<integer>90</integer>
 			</dict>
 			<key>fillType</key>
 			<integer>0</integer>
@@ -1280,7 +1283,7 @@
 			<key>$class</key>
 			<dict>
 				<key>CF$UID</key>
-				<integer>88</integer>
+				<integer>91</integer>
 			</dict>
 			<key>alpha</key>
 			<real>1</real>
@@ -1333,12 +1336,12 @@
 			<key>$class</key>
 			<dict>
 				<key>CF$UID</key>
-				<integer>97</integer>
+				<integer>100</integer>
 			</dict>
 			<key>array_do</key>
 			<dict>
 				<key>CF$UID</key>
-				<integer>92</integer>
+				<integer>95</integer>
 			</dict>
 		</dict>
 		<dict>
@@ -1350,24 +1353,24 @@
 			<key>NS.object.0</key>
 			<dict>
 				<key>CF$UID</key>
-				<integer>93</integer>
+				<integer>96</integer>
 			</dict>
 		</dict>
 		<dict>
 			<key>$class</key>
 			<dict>
 				<key>CF$UID</key>
-				<integer>96</integer>
+				<integer>99</integer>
 			</dict>
 			<key>color</key>
 			<dict>
 				<key>CF$UID</key>
-				<integer>94</integer>
+				<integer>97</integer>
 			</dict>
 			<key>do_objectID</key>
 			<dict>
 				<key>CF$UID</key>
-				<integer>95</integer>
+				<integer>98</integer>
 			</dict>
 			<key>fillType</key>
 			<integer>0</integer>
@@ -1386,16 +1389,16 @@
 			<key>$class</key>
 			<dict>
 				<key>CF$UID</key>
-				<integer>88</integer>
+				<integer>91</integer>
 			</dict>
 			<key>alpha</key>
 			<real>1</real>
 			<key>blue</key>
-			<real>0.037380608809180274</real>
+			<real>0.92517006802721091</real>
 			<key>green</key>
 			<real>0.037380608809180274</real>
 			<key>red</key>
-			<real>0.92517006802721091</real>
+			<real>0.037380608809180274</real>
 		</dict>
 		<string>20D3D2D4-C3AF-4FAF-B324-F26A8F595537</string>
 		<dict>
@@ -1434,7 +1437,7 @@
 			<key>array_do</key>
 			<dict>
 				<key>CF$UID</key>
-				<integer>99</integer>
+				<integer>102</integer>
 			</dict>
 		</dict>
 		<dict>
@@ -1446,35 +1449,35 @@
 			<key>NS.object.0</key>
 			<dict>
 				<key>CF$UID</key>
-				<integer>100</integer>
+				<integer>103</integer>
 			</dict>
 		</dict>
 		<dict>
 			<key>$class</key>
 			<dict>
 				<key>CF$UID</key>
-				<integer>122</integer>
+				<integer>125</integer>
 			</dict>
 			<key>booleanOperation</key>
 			<integer>-1</integer>
 			<key>do_objectID</key>
 			<dict>
 				<key>CF$UID</key>
-				<integer>121</integer>
+				<integer>124</integer>
 			</dict>
 			<key>edited</key>
 			<false/>
 			<key>exportOptions</key>
 			<dict>
 				<key>CF$UID</key>
-				<integer>101</integer>
+				<integer>104</integer>
 			</dict>
 			<key>fixedRadius</key>
 			<real>0.0</real>
 			<key>frame</key>
 			<dict>
 				<key>CF$UID</key>
-				<integer>106</integer>
+				<integer>109</integer>
 			</dict>
 			<key>hasConvertedToNewRoundCorners</key>
 			<true/>
@@ -1491,7 +1494,7 @@
 			<key>name</key>
 			<dict>
 				<key>CF$UID</key>
-				<integer>107</integer>
+				<integer>110</integer>
 			</dict>
 			<key>nameIsFixed</key>
 			<false/>
@@ -1503,7 +1506,7 @@
 			<key>path</key>
 			<dict>
 				<key>CF$UID</key>
-				<integer>108</integer>
+				<integer>111</integer>
 			</dict>
 			<key>rotation</key>
 			<real>0.0</real>
@@ -1524,7 +1527,7 @@
 			<key>includedLayerIds</key>
 			<dict>
 				<key>CF$UID</key>
-				<integer>102</integer>
+				<integer>105</integer>
 			</dict>
 			<key>layerOptions</key>
 			<integer>0</integer>
@@ -1533,7 +1536,7 @@
 			<key>sizes</key>
 			<dict>
 				<key>CF$UID</key>
-				<integer>104</integer>
+				<integer>107</integer>
 			</dict>
 		</dict>
 		<dict>
@@ -1545,7 +1548,7 @@
 			<key>array_do</key>
 			<dict>
 				<key>CF$UID</key>
-				<integer>103</integer>
+				<integer>106</integer>
 			</dict>
 		</dict>
 		<dict>
@@ -1564,7 +1567,7 @@
 			<key>array_do</key>
 			<dict>
 				<key>CF$UID</key>
-				<integer>105</integer>
+				<integer>108</integer>
 			</dict>
 		</dict>
 		<dict>
@@ -1596,14 +1599,14 @@
 			<key>$class</key>
 			<dict>
 				<key>CF$UID</key>
-				<integer>120</integer>
+				<integer>123</integer>
 			</dict>
 			<key>isClosed</key>
 			<true/>
 			<key>points</key>
 			<dict>
 				<key>CF$UID</key>
-				<integer>109</integer>
+				<integer>112</integer>
 			</dict>
 		</dict>
 		<dict>
@@ -1615,7 +1618,7 @@
 			<key>array_do</key>
 			<dict>
 				<key>CF$UID</key>
-				<integer>110</integer>
+				<integer>113</integer>
 			</dict>
 		</dict>
 		<dict>
@@ -1627,43 +1630,43 @@
 			<key>NS.object.0</key>
 			<dict>
 				<key>CF$UID</key>
-				<integer>111</integer>
+				<integer>114</integer>
 			</dict>
 			<key>NS.object.1</key>
 			<dict>
 				<key>CF$UID</key>
-				<integer>114</integer>
+				<integer>117</integer>
 			</dict>
 			<key>NS.object.2</key>
 			<dict>
 				<key>CF$UID</key>
-				<integer>116</integer>
+				<integer>119</integer>
 			</dict>
 			<key>NS.object.3</key>
 			<dict>
 				<key>CF$UID</key>
-				<integer>118</integer>
+				<integer>121</integer>
 			</dict>
 		</dict>
 		<dict>
 			<key>$class</key>
 			<dict>
 				<key>CF$UID</key>
-				<integer>113</integer>
+				<integer>116</integer>
 			</dict>
 			<key>cornerRadius</key>
 			<real>0.0</real>
 			<key>curveFrom</key>
 			<dict>
 				<key>CF$UID</key>
-				<integer>112</integer>
+				<integer>115</integer>
 			</dict>
 			<key>curveMode</key>
 			<integer>1</integer>
 			<key>curveTo</key>
 			<dict>
 				<key>CF$UID</key>
-				<integer>112</integer>
+				<integer>115</integer>
 			</dict>
 			<key>hasCurveFrom</key>
 			<false/>
@@ -1672,7 +1675,7 @@
 			<key>point</key>
 			<dict>
 				<key>CF$UID</key>
-				<integer>112</integer>
+				<integer>115</integer>
 			</dict>
 		</dict>
 		<string>{0, 0}</string>
@@ -1691,21 +1694,21 @@
 			<key>$class</key>
 			<dict>
 				<key>CF$UID</key>
-				<integer>113</integer>
+				<integer>116</integer>
 			</dict>
 			<key>cornerRadius</key>
 			<real>0.0</real>
 			<key>curveFrom</key>
 			<dict>
 				<key>CF$UID</key>
-				<integer>115</integer>
+				<integer>118</integer>
 			</dict>
 			<key>curveMode</key>
 			<integer>1</integer>
 			<key>curveTo</key>
 			<dict>
 				<key>CF$UID</key>
-				<integer>115</integer>
+				<integer>118</integer>
 			</dict>
 			<key>hasCurveFrom</key>
 			<false/>
@@ -1714,7 +1717,7 @@
 			<key>point</key>
 			<dict>
 				<key>CF$UID</key>
-				<integer>115</integer>
+				<integer>118</integer>
 			</dict>
 		</dict>
 		<string>{1, 0}</string>
@@ -1722,21 +1725,21 @@
 			<key>$class</key>
 			<dict>
 				<key>CF$UID</key>
-				<integer>113</integer>
+				<integer>116</integer>
 			</dict>
 			<key>cornerRadius</key>
 			<real>0.0</real>
 			<key>curveFrom</key>
 			<dict>
 				<key>CF$UID</key>
-				<integer>117</integer>
+				<integer>120</integer>
 			</dict>
 			<key>curveMode</key>
 			<integer>1</integer>
 			<key>curveTo</key>
 			<dict>
 				<key>CF$UID</key>
-				<integer>117</integer>
+				<integer>120</integer>
 			</dict>
 			<key>hasCurveFrom</key>
 			<false/>
@@ -1745,7 +1748,7 @@
 			<key>point</key>
 			<dict>
 				<key>CF$UID</key>
-				<integer>117</integer>
+				<integer>120</integer>
 			</dict>
 		</dict>
 		<string>{1, 1}</string>
@@ -1753,21 +1756,21 @@
 			<key>$class</key>
 			<dict>
 				<key>CF$UID</key>
-				<integer>113</integer>
+				<integer>116</integer>
 			</dict>
 			<key>cornerRadius</key>
 			<real>0.0</real>
 			<key>curveFrom</key>
 			<dict>
 				<key>CF$UID</key>
-				<integer>119</integer>
+				<integer>122</integer>
 			</dict>
 			<key>curveMode</key>
 			<integer>1</integer>
 			<key>curveTo</key>
 			<dict>
 				<key>CF$UID</key>
-				<integer>119</integer>
+				<integer>122</integer>
 			</dict>
 			<key>hasCurveFrom</key>
 			<false/>
@@ -1776,7 +1779,7 @@
 			<key>point</key>
 			<dict>
 				<key>CF$UID</key>
-				<integer>119</integer>
+				<integer>122</integer>
 			</dict>
 		</dict>
 		<string>{0, 1}</string>
@@ -1831,14 +1834,14 @@
 			<key>$class</key>
 			<dict>
 				<key>CF$UID</key>
-				<integer>128</integer>
+				<integer>131</integer>
 			</dict>
 			<key>base</key>
 			<integer>0</integer>
 			<key>guides</key>
 			<dict>
 				<key>CF$UID</key>
-				<integer>126</integer>
+				<integer>129</integer>
 			</dict>
 		</dict>
 		<dict>
@@ -1850,7 +1853,7 @@
 			<key>array_do</key>
 			<dict>
 				<key>CF$UID</key>
-				<integer>127</integer>
+				<integer>130</integer>
 			</dict>
 		</dict>
 		<dict>
@@ -1871,19 +1874,19 @@
 			<key>$classname</key>
 			<string>MSRulerData</string>
 		</dict>
-		<string>{32, 161}</string>
+		<string>{59, 188}</string>
 		<dict>
 			<key>$class</key>
 			<dict>
 				<key>CF$UID</key>
-				<integer>128</integer>
+				<integer>131</integer>
 			</dict>
 			<key>base</key>
 			<integer>0</integer>
 			<key>guides</key>
 			<dict>
 				<key>CF$UID</key>
-				<integer>131</integer>
+				<integer>134</integer>
 			</dict>
 		</dict>
 		<dict>
@@ -1895,7 +1898,7 @@
 			<key>array_do</key>
 			<dict>
 				<key>CF$UID</key>
-				<integer>132</integer>
+				<integer>135</integer>
 			</dict>
 		</dict>
 		<dict>
