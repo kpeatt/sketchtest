@@ -11,7 +11,7 @@
 			<key>$class</key>
 			<dict>
 				<key>CF$UID</key>
-				<integer>86</integer>
+				<integer>135</integer>
 			</dict>
 			<key>assets</key>
 			<dict>
@@ -362,12 +362,12 @@
 			<key>$class</key>
 			<dict>
 				<key>CF$UID</key>
-				<integer>85</integer>
+				<integer>134</integer>
 			</dict>
 			<key>do_objectID</key>
 			<dict>
 				<key>CF$UID</key>
-				<integer>84</integer>
+				<integer>133</integer>
 			</dict>
 			<key>exportOptions</key>
 			<dict>
@@ -389,7 +389,7 @@
 			<key>horizontalRulerData</key>
 			<dict>
 				<key>CF$UID</key>
-				<integer>76</integer>
+				<integer>125</integer>
 			</dict>
 			<key>isFlippedHorizontal</key>
 			<false/>
@@ -428,7 +428,7 @@
 			<key>scrollOrigin</key>
 			<dict>
 				<key>CF$UID</key>
-				<integer>80</integer>
+				<integer>129</integer>
 			</dict>
 			<key>sharedObjectID</key>
 			<dict>
@@ -450,7 +450,7 @@
 			<key>verticalRulerData</key>
 			<dict>
 				<key>CF$UID</key>
-				<integer>81</integer>
+				<integer>130</integer>
 			</dict>
 			<key>zoomValue</key>
 			<real>1</real>
@@ -611,19 +611,24 @@
 				<key>CF$UID</key>
 				<integer>44</integer>
 			</dict>
+			<key>NS.object.1</key>
+			<dict>
+				<key>CF$UID</key>
+				<integer>75</integer>
+			</dict>
 		</dict>
 		<dict>
 			<key>$class</key>
 			<dict>
 				<key>CF$UID</key>
-				<integer>75</integer>
+				<integer>74</integer>
 			</dict>
 			<key>automaticallyDrawOnUnderlyingPath</key>
 			<false/>
 			<key>do_objectID</key>
 			<dict>
 				<key>CF$UID</key>
-				<integer>74</integer>
+				<integer>73</integer>
 			</dict>
 			<key>dontSynchroniseWithSymbol</key>
 			<false/>
@@ -668,7 +673,7 @@
 			<key>storage</key>
 			<dict>
 				<key>CF$UID</key>
-				<integer>65</integer>
+				<integer>68</integer>
 			</dict>
 			<key>style</key>
 			<dict>
@@ -795,7 +800,7 @@
 			<key>$class</key>
 			<dict>
 				<key>CF$UID</key>
-				<integer>64</integer>
+				<integer>67</integer>
 			</dict>
 			<key>attributes</key>
 			<dict>
@@ -807,7 +812,7 @@
 			<key>$class</key>
 			<dict>
 				<key>CF$UID</key>
-				<integer>63</integer>
+				<integer>66</integer>
 			</dict>
 			<key>NS.key.0</key>
 			<dict>
@@ -819,6 +824,11 @@
 				<key>CF$UID</key>
 				<integer>59</integer>
 			</dict>
+			<key>NS.key.2</key>
+			<dict>
+				<key>CF$UID</key>
+				<integer>62</integer>
+			</dict>
 			<key>NS.object.0</key>
 			<dict>
 				<key>CF$UID</key>
@@ -828,6 +838,11 @@
 			<dict>
 				<key>CF$UID</key>
 				<integer>60</integer>
+			</dict>
+			<key>NS.object.2</key>
+			<dict>
+				<key>CF$UID</key>
+				<integer>63</integer>
 			</dict>
 		</dict>
 		<string>NSColor</string>
@@ -853,17 +868,41 @@
 			<key>$classname</key>
 			<string>NSColor</string>
 		</dict>
+		<string>NSParagraphStyle</string>
+		<dict>
+			<key>$class</key>
+			<dict>
+				<key>CF$UID</key>
+				<integer>61</integer>
+			</dict>
+			<key>NSAlignment</key>
+			<integer>4</integer>
+			<key>NSTabStops</key>
+			<dict>
+				<key>CF$UID</key>
+				<integer>0</integer>
+			</dict>
+		</dict>
+		<dict>
+			<key>$classes</key>
+			<array>
+				<string>NSParagraphStyle</string>
+				<string>NSObject</string>
+			</array>
+			<key>$classname</key>
+			<string>NSParagraphStyle</string>
+		</dict>
 		<string>NSFont</string>
 		<dict>
 			<key>$class</key>
 			<dict>
 				<key>CF$UID</key>
-				<integer>62</integer>
+				<integer>65</integer>
 			</dict>
 			<key>NSName</key>
 			<dict>
 				<key>CF$UID</key>
-				<integer>61</integer>
+				<integer>64</integer>
 			</dict>
 			<key>NSSize</key>
 			<real>15</real>
@@ -904,12 +943,12 @@
 			<key>$class</key>
 			<dict>
 				<key>CF$UID</key>
-				<integer>73</integer>
+				<integer>72</integer>
 			</dict>
 			<key>NSAttributes</key>
 			<dict>
 				<key>CF$UID</key>
-				<integer>68</integer>
+				<integer>71</integer>
 			</dict>
 			<key>NSDelegate</key>
 			<dict>
@@ -919,14 +958,14 @@
 			<key>NSString</key>
 			<dict>
 				<key>CF$UID</key>
-				<integer>66</integer>
+				<integer>69</integer>
 			</dict>
 		</dict>
 		<dict>
 			<key>$class</key>
 			<dict>
 				<key>CF$UID</key>
-				<integer>67</integer>
+				<integer>70</integer>
 			</dict>
 			<key>NS.bytes</key>
 			<data>
@@ -947,7 +986,7 @@
 			<key>$class</key>
 			<dict>
 				<key>CF$UID</key>
-				<integer>63</integer>
+				<integer>66</integer>
 			</dict>
 			<key>NS.key.0</key>
 			<dict>
@@ -957,65 +996,28 @@
 			<key>NS.key.1</key>
 			<dict>
 				<key>CF$UID</key>
-				<integer>70</integer>
+				<integer>59</integer>
 			</dict>
 			<key>NS.key.2</key>
 			<dict>
 				<key>CF$UID</key>
-				<integer>59</integer>
+				<integer>62</integer>
 			</dict>
 			<key>NS.object.0</key>
 			<dict>
 				<key>CF$UID</key>
-				<integer>69</integer>
+				<integer>57</integer>
 			</dict>
 			<key>NS.object.1</key>
 			<dict>
 				<key>CF$UID</key>
-				<integer>71</integer>
+				<integer>60</integer>
 			</dict>
 			<key>NS.object.2</key>
 			<dict>
 				<key>CF$UID</key>
-				<integer>60</integer>
+				<integer>63</integer>
 			</dict>
-		</dict>
-		<dict>
-			<key>$class</key>
-			<dict>
-				<key>CF$UID</key>
-				<integer>58</integer>
-			</dict>
-			<key>NSColorSpace</key>
-			<integer>1</integer>
-			<key>NSRGB</key>
-			<data>
-			MC4xOTIxNTY4NjI3IDAuMjE1Njg2Mjc0NSAwLjIzOTIxNTY4NjMA
-			</data>
-		</dict>
-		<string>NSParagraphStyle</string>
-		<dict>
-			<key>$class</key>
-			<dict>
-				<key>CF$UID</key>
-				<integer>72</integer>
-			</dict>
-			<key>NSAlignment</key>
-			<integer>4</integer>
-			<key>NSTabStops</key>
-			<dict>
-				<key>CF$UID</key>
-				<integer>0</integer>
-			</dict>
-		</dict>
-		<dict>
-			<key>$classes</key>
-			<array>
-				<string>NSParagraphStyle</string>
-				<string>NSObject</string>
-			</array>
-			<key>$classname</key>
-			<string>NSParagraphStyle</string>
 		</dict>
 		<dict>
 			<key>$classes</key>
@@ -1048,14 +1050,97 @@
 			<key>$class</key>
 			<dict>
 				<key>CF$UID</key>
-				<integer>79</integer>
+				<integer>124</integer>
 			</dict>
-			<key>base</key>
+			<key>clippingMaskMode</key>
 			<integer>0</integer>
-			<key>guides</key>
+			<key>do_objectID</key>
+			<dict>
+				<key>CF$UID</key>
+				<integer>123</integer>
+			</dict>
+			<key>exportOptions</key>
+			<dict>
+				<key>CF$UID</key>
+				<integer>76</integer>
+			</dict>
+			<key>frame</key>
+			<dict>
+				<key>CF$UID</key>
+				<integer>81</integer>
+			</dict>
+			<key>hasClickThrough</key>
+			<true/>
+			<key>hasClippingMask</key>
+			<false/>
+			<key>isFlippedHorizontal</key>
+			<false/>
+			<key>isFlippedVertical</key>
+			<false/>
+			<key>isLocked</key>
+			<false/>
+			<key>isVisible</key>
+			<true/>
+			<key>layerListExpandedType</key>
+			<integer>1</integer>
+			<key>layers</key>
+			<dict>
+				<key>CF$UID</key>
+				<integer>98</integer>
+			</dict>
+			<key>name</key>
+			<dict>
+				<key>CF$UID</key>
+				<integer>82</integer>
+			</dict>
+			<key>nameIsFixed</key>
+			<false/>
+			<key>originalObjectID</key>
+			<dict>
+				<key>CF$UID</key>
+				<integer>0</integer>
+			</dict>
+			<key>rotation</key>
+			<real>0.0</real>
+			<key>sharedObjectID</key>
+			<dict>
+				<key>CF$UID</key>
+				<integer>0</integer>
+			</dict>
+			<key>shouldBreakMaskChain</key>
+			<false/>
+			<key>style</key>
+			<dict>
+				<key>CF$UID</key>
+				<integer>83</integer>
+			</dict>
+			<key>userInfo</key>
+			<dict>
+				<key>CF$UID</key>
+				<integer>0</integer>
+			</dict>
+			<key>windingRule</key>
+			<integer>1</integer>
+		</dict>
+		<dict>
+			<key>$class</key>
+			<dict>
+				<key>CF$UID</key>
+				<integer>36</integer>
+			</dict>
+			<key>includedLayerIds</key>
 			<dict>
 				<key>CF$UID</key>
 				<integer>77</integer>
+			</dict>
+			<key>layerOptions</key>
+			<integer>0</integer>
+			<key>shouldTrim</key>
+			<false/>
+			<key>sizes</key>
+			<dict>
+				<key>CF$UID</key>
+				<integer>79</integer>
 			</dict>
 		</dict>
 		<dict>
@@ -1068,6 +1153,704 @@
 			<dict>
 				<key>CF$UID</key>
 				<integer>78</integer>
+			</dict>
+		</dict>
+		<dict>
+			<key>$class</key>
+			<dict>
+				<key>CF$UID</key>
+				<integer>5</integer>
+			</dict>
+		</dict>
+		<dict>
+			<key>$class</key>
+			<dict>
+				<key>CF$UID</key>
+				<integer>6</integer>
+			</dict>
+			<key>array_do</key>
+			<dict>
+				<key>CF$UID</key>
+				<integer>80</integer>
+			</dict>
+		</dict>
+		<dict>
+			<key>$class</key>
+			<dict>
+				<key>CF$UID</key>
+				<integer>5</integer>
+			</dict>
+		</dict>
+		<dict>
+			<key>$class</key>
+			<dict>
+				<key>CF$UID</key>
+				<integer>38</integer>
+			</dict>
+			<key>constrainProportions</key>
+			<false/>
+			<key>height</key>
+			<real>84</real>
+			<key>width</key>
+			<real>171</real>
+			<key>x</key>
+			<real>457</real>
+			<key>y</key>
+			<real>78</real>
+		</dict>
+		<string>Rectangle 1</string>
+		<dict>
+			<key>$class</key>
+			<dict>
+				<key>CF$UID</key>
+				<integer>41</integer>
+			</dict>
+			<key>borders</key>
+			<dict>
+				<key>CF$UID</key>
+				<integer>84</integer>
+			</dict>
+			<key>endDecorationType</key>
+			<integer>0</integer>
+			<key>fills</key>
+			<dict>
+				<key>CF$UID</key>
+				<integer>91</integer>
+			</dict>
+			<key>miterLimit</key>
+			<integer>10</integer>
+			<key>sharedObjectID</key>
+			<dict>
+				<key>CF$UID</key>
+				<integer>0</integer>
+			</dict>
+			<key>startDecorationType</key>
+			<integer>0</integer>
+			<key>textStyle</key>
+			<dict>
+				<key>CF$UID</key>
+				<integer>0</integer>
+			</dict>
+		</dict>
+		<dict>
+			<key>$class</key>
+			<dict>
+				<key>CF$UID</key>
+				<integer>90</integer>
+			</dict>
+			<key>array_do</key>
+			<dict>
+				<key>CF$UID</key>
+				<integer>85</integer>
+			</dict>
+		</dict>
+		<dict>
+			<key>$class</key>
+			<dict>
+				<key>CF$UID</key>
+				<integer>5</integer>
+			</dict>
+			<key>NS.object.0</key>
+			<dict>
+				<key>CF$UID</key>
+				<integer>86</integer>
+			</dict>
+		</dict>
+		<dict>
+			<key>$class</key>
+			<dict>
+				<key>CF$UID</key>
+				<integer>89</integer>
+			</dict>
+			<key>color</key>
+			<dict>
+				<key>CF$UID</key>
+				<integer>87</integer>
+			</dict>
+			<key>fillType</key>
+			<integer>0</integer>
+			<key>isEnabled</key>
+			<true/>
+			<key>position</key>
+			<integer>1</integer>
+			<key>thickness</key>
+			<real>1</real>
+		</dict>
+		<dict>
+			<key>$class</key>
+			<dict>
+				<key>CF$UID</key>
+				<integer>88</integer>
+			</dict>
+			<key>alpha</key>
+			<real>1</real>
+			<key>blue</key>
+			<real>0.59199999999999997</real>
+			<key>green</key>
+			<real>0.59199999999999997</real>
+			<key>red</key>
+			<real>0.59199999999999997</real>
+		</dict>
+		<dict>
+			<key>$classes</key>
+			<array>
+				<string>MSColor</string>
+				<string>_MSColor</string>
+				<string>MSModelObject</string>
+				<string>NSObject</string>
+			</array>
+			<key>$classname</key>
+			<string>MSColor</string>
+		</dict>
+		<dict>
+			<key>$classes</key>
+			<array>
+				<string>MSStyleBorder</string>
+				<string>_MSStyleBorder</string>
+				<string>MSStyleBasicFill</string>
+				<string>_MSStyleBasicFill</string>
+				<string>MSStylePart</string>
+				<string>_MSStylePart</string>
+				<string>MSModelObject</string>
+				<string>NSObject</string>
+			</array>
+			<key>$classname</key>
+			<string>MSStyleBorder</string>
+		</dict>
+		<dict>
+			<key>$classes</key>
+			<array>
+				<string>MSBorderStyleCollection</string>
+				<string>MSStylePartCollection</string>
+				<string>MSArray</string>
+				<string>MSModelObject</string>
+				<string>NSObject</string>
+			</array>
+			<key>$classname</key>
+			<string>MSBorderStyleCollection</string>
+		</dict>
+		<dict>
+			<key>$class</key>
+			<dict>
+				<key>CF$UID</key>
+				<integer>97</integer>
+			</dict>
+			<key>array_do</key>
+			<dict>
+				<key>CF$UID</key>
+				<integer>92</integer>
+			</dict>
+		</dict>
+		<dict>
+			<key>$class</key>
+			<dict>
+				<key>CF$UID</key>
+				<integer>5</integer>
+			</dict>
+			<key>NS.object.0</key>
+			<dict>
+				<key>CF$UID</key>
+				<integer>93</integer>
+			</dict>
+		</dict>
+		<dict>
+			<key>$class</key>
+			<dict>
+				<key>CF$UID</key>
+				<integer>96</integer>
+			</dict>
+			<key>color</key>
+			<dict>
+				<key>CF$UID</key>
+				<integer>94</integer>
+			</dict>
+			<key>do_objectID</key>
+			<dict>
+				<key>CF$UID</key>
+				<integer>95</integer>
+			</dict>
+			<key>fillType</key>
+			<integer>0</integer>
+			<key>isEnabled</key>
+			<true/>
+			<key>noiseIndex</key>
+			<integer>0</integer>
+			<key>noiseIntensity</key>
+			<real>0.0</real>
+			<key>patternFillType</key>
+			<integer>0</integer>
+			<key>patternTileScale</key>
+			<real>1</real>
+		</dict>
+		<dict>
+			<key>$class</key>
+			<dict>
+				<key>CF$UID</key>
+				<integer>88</integer>
+			</dict>
+			<key>alpha</key>
+			<real>1</real>
+			<key>blue</key>
+			<real>0.037380608809180274</real>
+			<key>green</key>
+			<real>0.037380608809180274</real>
+			<key>red</key>
+			<real>0.92517006802721091</real>
+		</dict>
+		<string>20D3D2D4-C3AF-4FAF-B324-F26A8F595537</string>
+		<dict>
+			<key>$classes</key>
+			<array>
+				<string>MSStyleFill</string>
+				<string>_MSStyleFill</string>
+				<string>MSStyleBasicFill</string>
+				<string>_MSStyleBasicFill</string>
+				<string>MSStylePart</string>
+				<string>_MSStylePart</string>
+				<string>MSModelObject</string>
+				<string>NSObject</string>
+			</array>
+			<key>$classname</key>
+			<string>MSStyleFill</string>
+		</dict>
+		<dict>
+			<key>$classes</key>
+			<array>
+				<string>MSFillStyleCollection</string>
+				<string>MSStylePartCollection</string>
+				<string>MSArray</string>
+				<string>MSModelObject</string>
+				<string>NSObject</string>
+			</array>
+			<key>$classname</key>
+			<string>MSFillStyleCollection</string>
+		</dict>
+		<dict>
+			<key>$class</key>
+			<dict>
+				<key>CF$UID</key>
+				<integer>6</integer>
+			</dict>
+			<key>array_do</key>
+			<dict>
+				<key>CF$UID</key>
+				<integer>99</integer>
+			</dict>
+		</dict>
+		<dict>
+			<key>$class</key>
+			<dict>
+				<key>CF$UID</key>
+				<integer>5</integer>
+			</dict>
+			<key>NS.object.0</key>
+			<dict>
+				<key>CF$UID</key>
+				<integer>100</integer>
+			</dict>
+		</dict>
+		<dict>
+			<key>$class</key>
+			<dict>
+				<key>CF$UID</key>
+				<integer>122</integer>
+			</dict>
+			<key>booleanOperation</key>
+			<integer>-1</integer>
+			<key>do_objectID</key>
+			<dict>
+				<key>CF$UID</key>
+				<integer>121</integer>
+			</dict>
+			<key>edited</key>
+			<false/>
+			<key>exportOptions</key>
+			<dict>
+				<key>CF$UID</key>
+				<integer>101</integer>
+			</dict>
+			<key>fixedRadius</key>
+			<real>0.0</real>
+			<key>frame</key>
+			<dict>
+				<key>CF$UID</key>
+				<integer>106</integer>
+			</dict>
+			<key>hasConvertedToNewRoundCorners</key>
+			<true/>
+			<key>isFlippedHorizontal</key>
+			<false/>
+			<key>isFlippedVertical</key>
+			<false/>
+			<key>isLocked</key>
+			<false/>
+			<key>isVisible</key>
+			<true/>
+			<key>layerListExpandedType</key>
+			<integer>0</integer>
+			<key>name</key>
+			<dict>
+				<key>CF$UID</key>
+				<integer>107</integer>
+			</dict>
+			<key>nameIsFixed</key>
+			<false/>
+			<key>originalObjectID</key>
+			<dict>
+				<key>CF$UID</key>
+				<integer>0</integer>
+			</dict>
+			<key>path</key>
+			<dict>
+				<key>CF$UID</key>
+				<integer>108</integer>
+			</dict>
+			<key>rotation</key>
+			<real>0.0</real>
+			<key>shouldBreakMaskChain</key>
+			<false/>
+			<key>userInfo</key>
+			<dict>
+				<key>CF$UID</key>
+				<integer>0</integer>
+			</dict>
+		</dict>
+		<dict>
+			<key>$class</key>
+			<dict>
+				<key>CF$UID</key>
+				<integer>36</integer>
+			</dict>
+			<key>includedLayerIds</key>
+			<dict>
+				<key>CF$UID</key>
+				<integer>102</integer>
+			</dict>
+			<key>layerOptions</key>
+			<integer>0</integer>
+			<key>shouldTrim</key>
+			<false/>
+			<key>sizes</key>
+			<dict>
+				<key>CF$UID</key>
+				<integer>104</integer>
+			</dict>
+		</dict>
+		<dict>
+			<key>$class</key>
+			<dict>
+				<key>CF$UID</key>
+				<integer>6</integer>
+			</dict>
+			<key>array_do</key>
+			<dict>
+				<key>CF$UID</key>
+				<integer>103</integer>
+			</dict>
+		</dict>
+		<dict>
+			<key>$class</key>
+			<dict>
+				<key>CF$UID</key>
+				<integer>5</integer>
+			</dict>
+		</dict>
+		<dict>
+			<key>$class</key>
+			<dict>
+				<key>CF$UID</key>
+				<integer>6</integer>
+			</dict>
+			<key>array_do</key>
+			<dict>
+				<key>CF$UID</key>
+				<integer>105</integer>
+			</dict>
+		</dict>
+		<dict>
+			<key>$class</key>
+			<dict>
+				<key>CF$UID</key>
+				<integer>5</integer>
+			</dict>
+		</dict>
+		<dict>
+			<key>$class</key>
+			<dict>
+				<key>CF$UID</key>
+				<integer>38</integer>
+			</dict>
+			<key>constrainProportions</key>
+			<false/>
+			<key>height</key>
+			<real>84</real>
+			<key>width</key>
+			<real>171</real>
+			<key>x</key>
+			<real>0.0</real>
+			<key>y</key>
+			<real>0.0</real>
+		</dict>
+		<string>Path</string>
+		<dict>
+			<key>$class</key>
+			<dict>
+				<key>CF$UID</key>
+				<integer>120</integer>
+			</dict>
+			<key>isClosed</key>
+			<true/>
+			<key>points</key>
+			<dict>
+				<key>CF$UID</key>
+				<integer>109</integer>
+			</dict>
+		</dict>
+		<dict>
+			<key>$class</key>
+			<dict>
+				<key>CF$UID</key>
+				<integer>6</integer>
+			</dict>
+			<key>array_do</key>
+			<dict>
+				<key>CF$UID</key>
+				<integer>110</integer>
+			</dict>
+		</dict>
+		<dict>
+			<key>$class</key>
+			<dict>
+				<key>CF$UID</key>
+				<integer>5</integer>
+			</dict>
+			<key>NS.object.0</key>
+			<dict>
+				<key>CF$UID</key>
+				<integer>111</integer>
+			</dict>
+			<key>NS.object.1</key>
+			<dict>
+				<key>CF$UID</key>
+				<integer>114</integer>
+			</dict>
+			<key>NS.object.2</key>
+			<dict>
+				<key>CF$UID</key>
+				<integer>116</integer>
+			</dict>
+			<key>NS.object.3</key>
+			<dict>
+				<key>CF$UID</key>
+				<integer>118</integer>
+			</dict>
+		</dict>
+		<dict>
+			<key>$class</key>
+			<dict>
+				<key>CF$UID</key>
+				<integer>113</integer>
+			</dict>
+			<key>cornerRadius</key>
+			<real>0.0</real>
+			<key>curveFrom</key>
+			<dict>
+				<key>CF$UID</key>
+				<integer>112</integer>
+			</dict>
+			<key>curveMode</key>
+			<integer>1</integer>
+			<key>curveTo</key>
+			<dict>
+				<key>CF$UID</key>
+				<integer>112</integer>
+			</dict>
+			<key>hasCurveFrom</key>
+			<false/>
+			<key>hasCurveTo</key>
+			<false/>
+			<key>point</key>
+			<dict>
+				<key>CF$UID</key>
+				<integer>112</integer>
+			</dict>
+		</dict>
+		<string>{0, 0}</string>
+		<dict>
+			<key>$classes</key>
+			<array>
+				<string>MSCurvePoint</string>
+				<string>_MSCurvePoint</string>
+				<string>MSModelObject</string>
+				<string>NSObject</string>
+			</array>
+			<key>$classname</key>
+			<string>MSCurvePoint</string>
+		</dict>
+		<dict>
+			<key>$class</key>
+			<dict>
+				<key>CF$UID</key>
+				<integer>113</integer>
+			</dict>
+			<key>cornerRadius</key>
+			<real>0.0</real>
+			<key>curveFrom</key>
+			<dict>
+				<key>CF$UID</key>
+				<integer>115</integer>
+			</dict>
+			<key>curveMode</key>
+			<integer>1</integer>
+			<key>curveTo</key>
+			<dict>
+				<key>CF$UID</key>
+				<integer>115</integer>
+			</dict>
+			<key>hasCurveFrom</key>
+			<false/>
+			<key>hasCurveTo</key>
+			<false/>
+			<key>point</key>
+			<dict>
+				<key>CF$UID</key>
+				<integer>115</integer>
+			</dict>
+		</dict>
+		<string>{1, 0}</string>
+		<dict>
+			<key>$class</key>
+			<dict>
+				<key>CF$UID</key>
+				<integer>113</integer>
+			</dict>
+			<key>cornerRadius</key>
+			<real>0.0</real>
+			<key>curveFrom</key>
+			<dict>
+				<key>CF$UID</key>
+				<integer>117</integer>
+			</dict>
+			<key>curveMode</key>
+			<integer>1</integer>
+			<key>curveTo</key>
+			<dict>
+				<key>CF$UID</key>
+				<integer>117</integer>
+			</dict>
+			<key>hasCurveFrom</key>
+			<false/>
+			<key>hasCurveTo</key>
+			<false/>
+			<key>point</key>
+			<dict>
+				<key>CF$UID</key>
+				<integer>117</integer>
+			</dict>
+		</dict>
+		<string>{1, 1}</string>
+		<dict>
+			<key>$class</key>
+			<dict>
+				<key>CF$UID</key>
+				<integer>113</integer>
+			</dict>
+			<key>cornerRadius</key>
+			<real>0.0</real>
+			<key>curveFrom</key>
+			<dict>
+				<key>CF$UID</key>
+				<integer>119</integer>
+			</dict>
+			<key>curveMode</key>
+			<integer>1</integer>
+			<key>curveTo</key>
+			<dict>
+				<key>CF$UID</key>
+				<integer>119</integer>
+			</dict>
+			<key>hasCurveFrom</key>
+			<false/>
+			<key>hasCurveTo</key>
+			<false/>
+			<key>point</key>
+			<dict>
+				<key>CF$UID</key>
+				<integer>119</integer>
+			</dict>
+		</dict>
+		<string>{0, 1}</string>
+		<dict>
+			<key>$classes</key>
+			<array>
+				<string>MSShapePath</string>
+				<string>_MSShapePath</string>
+				<string>MSModelObject</string>
+				<string>NSObject</string>
+			</array>
+			<key>$classname</key>
+			<string>MSShapePath</string>
+		</dict>
+		<string>ED6645C4-65F2-4732-9945-71F77A349A14</string>
+		<dict>
+			<key>$classes</key>
+			<array>
+				<string>MSRectangleShape</string>
+				<string>_MSRectangleShape</string>
+				<string>MSCustomShapeLayer</string>
+				<string>_MSCustomShapeLayer</string>
+				<string>MSShapePathLayer</string>
+				<string>_MSShapePathLayer</string>
+				<string>MSLayer</string>
+				<string>_MSLayer</string>
+				<string>MSModelObject</string>
+				<string>NSObject</string>
+			</array>
+			<key>$classname</key>
+			<string>MSRectangleShape</string>
+		</dict>
+		<string>CEDE09AA-216D-49E7-BD44-30E44619E855</string>
+		<dict>
+			<key>$classes</key>
+			<array>
+				<string>MSShapeGroup</string>
+				<string>_MSShapeGroup</string>
+				<string>MSLayerGroup</string>
+				<string>_MSLayerGroup</string>
+				<string>MSStyledLayer</string>
+				<string>_MSStyledLayer</string>
+				<string>MSLayer</string>
+				<string>_MSLayer</string>
+				<string>MSModelObject</string>
+				<string>NSObject</string>
+			</array>
+			<key>$classname</key>
+			<string>MSShapeGroup</string>
+		</dict>
+		<dict>
+			<key>$class</key>
+			<dict>
+				<key>CF$UID</key>
+				<integer>128</integer>
+			</dict>
+			<key>base</key>
+			<integer>0</integer>
+			<key>guides</key>
+			<dict>
+				<key>CF$UID</key>
+				<integer>126</integer>
+			</dict>
+		</dict>
+		<dict>
+			<key>$class</key>
+			<dict>
+				<key>CF$UID</key>
+				<integer>6</integer>
+			</dict>
+			<key>array_do</key>
+			<dict>
+				<key>CF$UID</key>
+				<integer>127</integer>
 			</dict>
 		</dict>
 		<dict>
@@ -1093,14 +1876,14 @@
 			<key>$class</key>
 			<dict>
 				<key>CF$UID</key>
-				<integer>79</integer>
+				<integer>128</integer>
 			</dict>
 			<key>base</key>
 			<integer>0</integer>
 			<key>guides</key>
 			<dict>
 				<key>CF$UID</key>
-				<integer>82</integer>
+				<integer>131</integer>
 			</dict>
 		</dict>
 		<dict>
@@ -1112,7 +1895,7 @@
 			<key>array_do</key>
 			<dict>
 				<key>CF$UID</key>
-				<integer>83</integer>
+				<integer>132</integer>
 			</dict>
 		</dict>
 		<dict>
